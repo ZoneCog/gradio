@@ -1,5 +1,15 @@
 # @gradio/audio
 
+## 0.14.0-beta.8
+
+### Dependency updates
+
+- @gradio/atoms@0.9.0-beta.5
+- @gradio/statustracker@0.8.0-beta.5
+- @gradio/upload@0.13.0-beta.7
+- @gradio/button@0.3.0-beta.7
+- @gradio/icons@0.8.0-beta.4
+
 ## 0.14.0-beta.7
 
 ### Dependency updates

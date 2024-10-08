@@ -1,5 +1,11 @@
 # @self/component-test
 
+## 0.2.0-beta.7
+
+### Dependency updates
+
+- @gradio/video@0.11.0-beta.7
+
 ## 0.2.0-beta.6
 
 ### Dependency updates

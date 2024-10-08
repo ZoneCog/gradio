@@ -1,5 +1,31 @@
 # @gradio/core
 
+## 0.1.0-beta.6
+
+### Features
+
+- [#9575](https://github.com/gradio-app/gradio/pull/9575) [`4ec2feb`](https://github.com/gradio-app/gradio/commit/4ec2feb04e452d2c77482c09543c59948567be67) - Update gr.Dataframe UI with action popover.  Thanks @hannahblair!
+- [#9576](https://github.com/gradio-app/gradio/pull/9576) [`430a26a`](https://github.com/gradio-app/gradio/commit/430a26a4fbcbabb5e9ddb6173bf658a00960e88e) - Fix reload mode.  Thanks @freddyaboulton!
+
+### Dependency updates
+
+- @gradio/atoms@0.9.0-beta.5
+- @gradio/markdown@0.10.0-beta.5
+- @gradio/statustracker@0.8.0-beta.5
+- @gradio/upload@0.13.0-beta.7
+- @gradio/button@0.3.0-beta.7
+- @gradio/column@0.2.0-beta.2
+- @gradio/code@0.10.0-beta.8
+- @gradio/paramviewer@0.4.22-beta.5
+- @gradio/icons@0.8.0-beta.4
+- @gradio/gallery@0.13.0-beta.7
+- @gradio/plot@0.7.0-beta.6
+- @gradio/image@0.16.0-beta.7
+- @gradio/video@0.11.0-beta.7
+- @gradio/file@0.10.0-beta.7
+- @gradio/checkbox@0.4.0-beta.5
+- @gradio/textbox@0.7.0-beta.5
+
 ## 0.1.0-beta.5
 
 ### Features

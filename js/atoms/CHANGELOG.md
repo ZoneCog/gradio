@@ -1,5 +1,11 @@
 # @gradio/atoms
 
+## 0.9.0-beta.5
+
+### Dependency updates
+
+- @gradio/icons@0.8.0-beta.4
+
 ## 0.9.0-beta.4
 
 ### Features

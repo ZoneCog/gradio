@@ -1,5 +1,17 @@
 # @gradio/textbox
 
+## 0.7.0-beta.5
+
+### Features
+
+- [#9583](https://github.com/gradio-app/gradio/pull/9583) [`b92a762`](https://github.com/gradio-app/gradio/commit/b92a7623e1ebd801587041e1ccca058a61058da9) - Disable the submit button and enter-key submit when the text is empty.  Thanks @whitphx!
+
+### Dependency updates
+
+- @gradio/atoms@0.9.0-beta.5
+- @gradio/statustracker@0.8.0-beta.5
+- @gradio/icons@0.8.0-beta.4
+
 ## 0.7.0-beta.4
 
 ### Features
